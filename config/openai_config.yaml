@@ -1,0 +1,19 @@
+openai:
+  endpoint: "https://api.openai.com/v1/chat/completions"
+  api_key: "YOUR_API_KEY_HERE"
+  model: "gpt-4"
+  temperature: 0.7
+  max_tokens: 1024
+  timeout: 10
+
+
+custom_llm:
+  endpoint: "https://api.xxx.com/v1/chat/completions"
+  api_key: "YOUR_API_KEY_HERE"
+  model: "gpt-4"
+  temperature: 0.7
+  max_tokens: 1024
+  timeout: 10
+
+
+

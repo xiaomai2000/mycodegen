@@ -1,0 +1,10 @@
+# Following below standard when writing programs
+
+1. Do not hard code any value in the program, all value should be in the config file
+2. Use environment variable to store the value, if needed
+3. Prepare unit test for all functions
+4. Use relative path for all file
+5. Use logger for all print statement
+6. Add comments to explain the code
+7. Use try except to handle the error
+

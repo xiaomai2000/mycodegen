@@ -1,0 +1,8 @@
+# Following below Naming standard for Database table and column
+
+1. Table name should be singular and in lowercase, starting with "t_"
+2. Column name should be in lowercase
+3. Use underscore to separate words in column name
+4. Use snake case for table and column names
+
+

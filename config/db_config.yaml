@@ -1,0 +1,6 @@
+# config/db_config.yaml
+database:
+  db_name: "example.db"  # Name of the SQLite database file
+  # SQLite does not require user, password, host, or port
+
+  
